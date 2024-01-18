@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hello, I'm Abhishek Raj 👋<br><br>## About Me<br>- 🎓 Master of Computer Applications (MCA) student<br>- 🌐 Passionate about web development, software engineering, and emerging technologies<br>- 🚀 Currently exploring the realms of machine learning and artificial intelligence<br><br>## Professional Experience<br>### Wipro Limited (2019-2021)<br>- 🏢 Worked as an Administrator at Wipro for 2 years<br>- 🌐 Collaborated with cross-functional teams to deliver high-quality solutions<br>- 🔄 Adapted to dynamic project requirements and participated in agile development
+Hello, I'm Abhishek Raj 👋<br><br>## About Me<br>- 🎓 Master of Computer Applications (MCA) student<br>- 🌐 Passionate about web development, software engineering, and emerging technologies<br>- 🚀 Currently exploring the realms of machine learning and artificial intelligence<br><br>## Professional Experience<br>### Wipro Limited (2022-2024)<br>- 🏢 Worked as an Administrator at Wipro for 2 years<br>- 🌐 Collaborated with cross-functional teams to deliver high-quality solutions<br>- 🔄 Adapted to dynamic project requirements and participated in agile development
 
 
 # 💻 Tech Stack:
